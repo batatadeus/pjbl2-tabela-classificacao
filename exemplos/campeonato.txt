@@ -1,0 +1,16 @@
+# Campeonato lido de arquivo (GHC local): rodada;mandante;gols;gols;visitante
+1;Coritiba;2;0;Cascavel
+1;Athletico;3;1;Londrina
+1;Paraná;0;0;Operário
+2;Coritiba;1;0;Londrina
+2;Cascavel;1;2;Operário
+2;Athletico;1;1;Paraná
+3;Coritiba;2;1;Operário
+3;Londrina;0;2;Paraná
+3;Cascavel;0;5;Athletico
+4;Coritiba;2;2;Paraná
+4;Operário;2;1;Athletico
+4;Londrina;1;1;Cascavel
+5;Coritiba;0;1;Athletico
+5;Paraná;1;1;Cascavel
+5;Operário;0;1;Londrina

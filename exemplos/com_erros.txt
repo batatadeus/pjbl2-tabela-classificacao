@@ -1,0 +1,7 @@
+# arquivo com erros de digitacao
+1;Coritiba;2;1;Athletico
+1;Paraná;2a;0;Operário
+1;Londrina;1;1;;
+2;Coritiba;0;0;Coritiba
+2;Athletico;1;0;Paraná
+2;Paraná;1;1;Cascavel
